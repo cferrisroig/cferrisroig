@@ -10,7 +10,9 @@ Althought I studied Mechanical Engineering, I have been since very young interes
 *   🖥️  See my portfolio at [cferrisroig.com](http://cferrisroig.com/)
 *   🚀  I'm currently working on [Stacking Tolerances](http://www.stackingtolerances.com/)
 *   🧠  I'm learning ReactJS and NextJS
-*   ⚡  I also like coffee and entrepreneurship### Skills 
+*   ⚡  I also like coffee and entrepreneurship
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -25,9 +27,7 @@ Althought I studied Mechanical Engineering, I have been since very young interes
 </p>
 
 ### Socials
-
 <p align="left"> <a href="https://www.github.com/cferrisroig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cferrisroig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/cferrisroig"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
