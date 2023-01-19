@@ -31,13 +31,17 @@ Althought I studied Mechanical Engineering, I have been since very young interes
 <br/>
 
 
-## :family_man_woman_girl_boy: Social links
+## :family_man_woman_girl_boy: Social and relevant links
 <a href="https://www.github.com/cferrisroig" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" style="padding-right:100px;" align="left"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="36" style="padding-right:10px;" align="left"/>
 </a> 
 <a href="https://www.linkedin.com/in/cferrisroig" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" style="padding-right:10px;" align="left"/>
 </a>
+<a href="https://www.fiverr.com/cristianfr" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="36"/>
+</a>
+
 
 <br/><br/>
 
